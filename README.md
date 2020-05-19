@@ -15,6 +15,14 @@ The following pages will walk you through the steps of the project. At a high le
 3. Compare the performance to see which hardware performed best
 4. Revise your proposal based on the test results
 
+## Project - Subdomain
+
+* [Manufacturing Scenario](./Manufacturing_Scenario.ipynb) 
+* [Retail Scenario](./Retail_Scenario.ipynb)
+* [Transportation Scenario](./Transportation_Scenario.ipynb) 
+
+---
+
 *If you faced any issues in building this project, feel free to ask me. Please do suggest new projects that you want me to do next.*
 
 *Share this video if you like.*
