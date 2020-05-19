@@ -1,9 +1,9 @@
 # Smart-Queuing-System
 Build custom queuing systems for the retail, manufacturing and transportation sectors and use the Intel® DevCloud for the Edge to test your solutions performance.
 
-## Demo Video of the Project - link
+## Demo Video of the Project - https://youtu.be/yn4WfCLaYxM
 
-[![Working Video](./images/youtube.png)](link "Working of the Project - Click to Watch!")
+[![Working Video](./images/youtube.png)](https://youtu.be/yn4WfCLaYxM "Working of the Project - Click to Watch!")
 
 ---
 
